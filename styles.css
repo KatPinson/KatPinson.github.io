@@ -80,7 +80,6 @@ nav ul li{
   color: #EDBFC6;
   background-position: center;
   padding: 1%;
-  border-radius: 25%%;
   border-color: #AF8D86;
   font-family: 'Playfair Display';
   font-size: 1.15em;
@@ -90,7 +89,7 @@ nav ul li{
 	display: flex;
 	padding: 5%;
 	background-color: #EDBFC6;
-	border-radius: 25%
+	border-radius: 10%
 }
 
 .icon{
@@ -201,6 +200,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
