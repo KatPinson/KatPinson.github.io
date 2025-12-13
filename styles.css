@@ -92,7 +92,7 @@ nav ul li{
 }
 
 .icon{
-	border-radius: 10%;
+	border-radius: 25%;
     background-color: #EDBFC6;
 }
 
@@ -106,7 +106,7 @@ nav ul li{
 	border-radius:10%;
 }
 
-.about{
+.About{
 	display: flex;
     margin: 0 auto;
     padding: 10%;
@@ -208,6 +208,7 @@ nav ul li{
 	min-height: 0;
 	border-radius:10%;
 }
+
 
 
 
