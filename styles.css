@@ -87,6 +87,7 @@ nav ul li{
 }
 
 .Cloth-moth{
+	display: flex;
 	padding: 5%;
 	background-color: #EDBFC6;
 	border-radius: 25%
@@ -99,6 +100,7 @@ nav ul li{
 }
 
 .sample{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -107,6 +109,7 @@ nav ul li{
 }
 
 .about{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #432E36;   
@@ -115,6 +118,7 @@ nav ul li{
 }
 
 .video-example{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -123,6 +127,7 @@ nav ul li{
 }
 
 .upload-a-video{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #432E36;   
@@ -131,6 +136,7 @@ nav ul li{
 }
 
 .pattern-example{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -143,6 +149,7 @@ nav ul li{
 }
 
 .upload-a-pattern{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -151,6 +158,7 @@ nav ul li{
 }
 
 .forum-example{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -159,6 +167,7 @@ nav ul li{
 }
 
 .upload-a-post{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #5F4842;   
@@ -167,6 +176,7 @@ nav ul li{
 }
 
 .login{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #432E36;   
@@ -175,6 +185,7 @@ nav ul li{
 }
 
 .signup{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #432E36;   
@@ -183,12 +194,14 @@ nav ul li{
 }
 
 .contact{
+	display: flex;
     margin: 0 auto;
     padding: 10%;
     background-color: #432E36;   
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
