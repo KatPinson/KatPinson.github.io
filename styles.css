@@ -82,14 +82,29 @@ nav ul li{
   color: #EDBFC6;
   background-position: center;
   padding: 1%;
-  border-color: #AF8D86;
+  background-color: 
   font-family: 'Playfair Display';
   font-size: 1.15em;
 }
 
 a:link {
-	color: 
-	background-color: #EDBFC6;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #260C1A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #260C1A;
+  text-decoration: underline;
 }
 
 .Cloth-moth{
@@ -216,6 +231,7 @@ a:link {
 	min-height: 0;
 	border-radius:20%;
 }
+
 
 
 
