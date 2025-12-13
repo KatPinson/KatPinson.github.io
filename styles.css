@@ -49,7 +49,7 @@ p {
   font-family: 'Alice';
   font-size: 1em;
 }
-/*
+
 header{
     background-image: url('/images/closeup-tapestry.png');
     font-family: 'Playfair Display', sans-serif;
@@ -78,7 +78,7 @@ nav ul{
 nav ul li{
   color: #EDBFC6;
   background-position: center;
-  padding: 63%;
+  padding: 25%;
   border-radius: 31%;
   border-color: #AF8D86;
   border-style: dashed;
@@ -95,7 +95,7 @@ nav ul li{
 .sample{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;
 }
@@ -103,7 +103,7 @@ nav ul li{
 .about{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #432E36;   
     color: #EDBFC6;
 }
@@ -111,7 +111,7 @@ nav ul li{
 .video-example{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;
 }
@@ -119,7 +119,7 @@ nav ul li{
 .upload-a-video{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #432E36;   
     color: #FFFFFF;
 }
@@ -127,7 +127,7 @@ nav ul li{
 .pattern-example{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;    
 }
@@ -139,7 +139,7 @@ nav ul li{
 .upload-a-pattern{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;    
 }
@@ -147,7 +147,7 @@ nav ul li{
 .forum-example{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;    
 }
@@ -155,7 +155,7 @@ nav ul li{
 .upload-a-post{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #5F4842;   
     color: #FFFFFF;       
 }
@@ -163,7 +163,7 @@ nav ul li{
 .login{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #432E36;   
     color: #EDBFC6;    
 }
@@ -171,7 +171,7 @@ nav ul li{
 .signup{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #432E36;   
     color: #EDBFC6;    
 }
@@ -179,8 +179,9 @@ nav ul li{
 .contact{
     display: flex;
     margin: 0 auto;
-    padding: 63%;
+    padding: 25%;
     background-color: #432E36;   
     color: #EDBFC6;        
 }
-*/
+
+
