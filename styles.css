@@ -54,7 +54,7 @@ header{
     background-image: url('/images/closeup-tapestry.png');
     font-family: 'Playfair Display', sans-serif;
     color: #260C1A;
-	max-height: fit-content;
+	max-height: 100%;
 }
 
 body{
@@ -178,6 +178,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
