@@ -72,6 +72,7 @@ nav ul{
 	gap: 275%;
     padding: 175%;
     background-color: #260C1A;
+	max-height: fit-content;
 }
 
 nav ul li{
@@ -191,6 +192,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
