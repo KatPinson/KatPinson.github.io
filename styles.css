@@ -82,9 +82,10 @@ nav ul li{
   color: #EDBFC6;
   background-position: center;
   padding: 1%;
-  background-color: 
+  background-color: #EDBFC6;
   font-family: 'Playfair Display';
   font-size: 1.15em;
+  border-radius: 35%;
 }
 
 a:link {
@@ -231,6 +232,7 @@ a:active {
 	min-height: 0;
 	border-radius:20%;
 }
+
 
 
 
