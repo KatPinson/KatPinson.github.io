@@ -4,7 +4,7 @@
   font-family: 'Playfair Display';
   font-style: normal;
   font-weight: 400;
-  src: url('/Final-Project/fonts/playfair-display-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/fonts/playfair-display-v40-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* alice-regular - latin */
@@ -13,7 +13,7 @@
   font-family: 'Alice';
   font-style: normal;
   font-weight: 400;
-  src: url('/Final-Project/fonts/alice-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/fonts/alice-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 h1,
@@ -51,14 +51,14 @@ p {
 }
 
 header{
-    background-image: url('/Final-Project/images/closeup-tapestry.png');
+    background-image: url('/images/closeup-tapestry.png');
     font-family: 'Playfair Display', sans-serif;
     color: #260C1A;
     background-color: #AF8D86;
 }
 
 body{
-    background-image: url('/Final-Project/images/Wheat-Pattern.jpg');
+    background-image: url('/images/Wheat-Pattern.jpg');
     font-family: 'Alice', sans-serif;
     font-weight: false;
     line-height: 1.65;
@@ -182,4 +182,5 @@ nav ul li{
     padding: 63%;
     background-color: #432E36;   
     color: #EDBFC6;        
+
 }
