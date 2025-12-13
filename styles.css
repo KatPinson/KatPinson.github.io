@@ -85,6 +85,11 @@ nav ul li{
   font-size: 1.15em;
 }
 
+a:link {
+	color: 
+	background-color: #EDBFC6;
+}
+
 .Cloth-moth{
 	display: flex;
 	padding: 2.5%;
@@ -208,6 +213,7 @@ nav ul li{
 	min-height: 0;
 	border-radius:10%;
 }
+
 
 
 
