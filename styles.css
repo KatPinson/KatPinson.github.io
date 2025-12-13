@@ -86,6 +86,12 @@ nav ul li{
   font-size: 1.15em;
 }
 
+.cloth-moth{
+	padding: 5%;
+	background-color: #EDBFC6;
+	border-radius: 25%
+}
+
 .icon{
 	padding: 5%;
 	border-radius: 50%;
@@ -183,6 +189,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
