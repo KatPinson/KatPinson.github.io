@@ -70,8 +70,8 @@ nav ul{
 	justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 2.5%;
-    padding: 2.5%;
+	gap: 1.5%;
+    padding: 1.5%;
 	max-height: 30%;
 	
 }
@@ -79,8 +79,8 @@ nav ul{
 nav ul li{
   color: #EDBFC6;
   background-position: center;
-  padding: 2.5%;
-  border-radius: 30%;
+  padding: 1.5%;
+  border-radius: 25%%;
   border-color: #AF8D86;
   font-family: 'Playfair Display';
   font-size: 1.15em;
@@ -88,13 +88,13 @@ nav ul li{
 
 .icon{
 	padding: 5%;
-	border-radius: 75%;
+	border-radius: 50%;
     background-color: #EDBFC6;
 }
 
 .sample{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;
 	min-height: 0;
@@ -102,7 +102,7 @@ nav ul li{
 
 .about{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #432E36;   
     color: #EDBFC6;
 	min-height: 0;
@@ -110,7 +110,7 @@ nav ul li{
 
 .video-example{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;
 	min-height: 0;
@@ -118,7 +118,7 @@ nav ul li{
 
 .upload-a-video{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #432E36;   
     color: #FFFFFF;
 	min-height: 0;
@@ -126,19 +126,19 @@ nav ul li{
 
 .pattern-example{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;   
 	min-height: 0;
 }
 
 .pattern-image{
-    size: 25%;
+    size: 10%;
 }
 
 .upload-a-pattern{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;    
 	min-height: 0;
@@ -146,7 +146,7 @@ nav ul li{
 
 .forum-example{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;    
 	min-height: 0;
@@ -154,7 +154,7 @@ nav ul li{
 
 .upload-a-post{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #5F4842;   
     color: #FFFFFF;  
 	min-height: 0;
@@ -162,7 +162,7 @@ nav ul li{
 
 .login{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #432E36;   
     color: #EDBFC6;    
 	min-height: 0;
@@ -170,7 +170,7 @@ nav ul li{
 
 .signup{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #432E36;   
     color: #EDBFC6;    
 	min-height: 0;
@@ -178,11 +178,12 @@ nav ul li{
 
 .contact{
     margin: 0 auto;
-    padding: 25%;
+    padding: 10%;
     background-color: #432E36;   
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
