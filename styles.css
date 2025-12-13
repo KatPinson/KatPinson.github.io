@@ -87,13 +87,10 @@ nav ul li{
 
 .Cloth-moth{
 	display: flex;
-	padding: 5%;
-	background-color: #EDBFC6;
 	border-radius: 10%
 }
 
 .icon{
-	padding: 5%;
 	border-radius: 50%;
     background-color: #EDBFC6;
 }
@@ -200,6 +197,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
