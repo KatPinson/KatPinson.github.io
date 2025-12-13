@@ -50,6 +50,13 @@ p {
   font-size: 1em;
 }
 
+header{
+    background-image: url('/Final-Project/images/closeup-tapestry.png');
+    font-family: 'Playfair Display', sans-serif;
+    color: #260C1A;
+    background-color: #AF8D86;
+}
+
 body{
     background-image: url('/images/Wheat-Pattern.jpg');
     font-family: 'Alice', sans-serif;
@@ -59,9 +66,8 @@ body{
 
 nav ul{
 	list-style: none;
-	gap: 100%;
-    padding: 100%;
-    background-image: url('/images/closeup-tapestry.png');
+	gap: 15%;
+    padding: 15%;
 	max-height: 100%;
 }
 
@@ -171,6 +177,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
