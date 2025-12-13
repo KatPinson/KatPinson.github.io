@@ -66,6 +66,10 @@ body{
 
 nav ul{
 	list-style: none;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
 	gap: 15%;
     padding: 15%;
 	max-height: 100%;
@@ -127,7 +131,7 @@ nav ul li{
 }
 
 .pattern-image{
-    size: 100%;
+    size: 25%;
 }
 
 .upload-a-pattern{
@@ -177,6 +181,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
