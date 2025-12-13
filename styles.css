@@ -87,6 +87,8 @@ nav ul li{
 }
 
 .icon{
+	width: 10%;
+	height: 10%;
     background-color: #EDBFC6;
 }
 
@@ -181,6 +183,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
