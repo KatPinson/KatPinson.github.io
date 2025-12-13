@@ -70,8 +70,8 @@ nav ul{
 	justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 1.5%;
-    padding: 1.5%;
+	gap: 1%;
+    padding: 1%;
 	max-height: 30%;
 	
 }
@@ -79,7 +79,7 @@ nav ul{
 nav ul li{
   color: #EDBFC6;
   background-position: center;
-  padding: 1.5%;
+  padding: 1%;
   border-radius: 25%%;
   border-color: #AF8D86;
   font-family: 'Playfair Display';
@@ -183,6 +183,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
