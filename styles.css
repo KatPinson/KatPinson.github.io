@@ -87,7 +87,8 @@ nav ul li{
 
 .Cloth-moth{
 	display: flex;
-	border-radius: 10%
+	border-radius: 10%;
+	
 }
 
 .icon{
@@ -102,6 +103,7 @@ nav ul li{
     background-color: #5F4842;   
     color: #FFFFFF;
 	min-height: 0;
+	border-radius:10%;
 }
 
 .about{
@@ -111,6 +113,7 @@ nav ul li{
     background-color: #432E36;   
     color: #EDBFC6;
 	min-height: 0;
+	border-radius:10%;
 }
 
 .video-example{
@@ -120,6 +123,7 @@ nav ul li{
     background-color: #5F4842;   
     color: #FFFFFF;
 	min-height: 0;
+	border-radius:10%;
 }
 
 .upload-a-video{
@@ -129,6 +133,7 @@ nav ul li{
     background-color: #432E36;   
     color: #FFFFFF;
 	min-height: 0;
+	border-radius:10%;
 }
 
 .pattern-example{
@@ -138,6 +143,7 @@ nav ul li{
     background-color: #5F4842;   
     color: #FFFFFF;   
 	min-height: 0;
+	border-radius:10%;
 }
 
 .pattern-image{
@@ -151,6 +157,7 @@ nav ul li{
     background-color: #5F4842;   
     color: #FFFFFF;    
 	min-height: 0;
+	border-radius:10%;
 }
 
 .forum-example{
@@ -169,6 +176,7 @@ nav ul li{
     background-color: #5F4842;   
     color: #FFFFFF;  
 	min-height: 0;
+	border-radius:10%;
 }
 
 .login{
@@ -178,6 +186,7 @@ nav ul li{
     background-color: #432E36;   
     color: #EDBFC6;    
 	min-height: 0;
+	border-radius:10%;
 }
 
 .signup{
@@ -187,6 +196,7 @@ nav ul li{
     background-color: #432E36;   
     color: #EDBFC6;    
 	min-height: 0;
+	border-radius:10%;
 }
 
 .contact{
@@ -196,7 +206,9 @@ nav ul li{
     background-color: #432E36;   
     color: #EDBFC6;      
 	min-height: 0;
+	border-radius:10%;
 }
+
 
 
 
