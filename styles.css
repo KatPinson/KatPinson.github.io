@@ -87,7 +87,6 @@ nav ul li{
 }
 
 .icon{
-	max-height: 10%;
 	padding: 5%;
 	border-radius: 100%;
     background-color: #EDBFC6;
@@ -184,6 +183,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
