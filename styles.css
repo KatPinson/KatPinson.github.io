@@ -59,8 +59,8 @@ body{
 
 nav ul{
 	list-style: none;
-	gap: 275%;
-    padding: 175%;
+	gap: 100%;
+    padding: 100%;
     background-image: url('/images/closeup-tapestry.png');
 	max-height: 100%;
 }
@@ -171,6 +171,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
