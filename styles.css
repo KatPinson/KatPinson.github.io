@@ -51,7 +51,7 @@ p {
 }
 
 header{
-    background-image: url('/Final-Project/images/closeup-tapestry.png');
+    background-image: url('/images/closeup-tapestry.png');
     font-family: 'Playfair Display', sans-serif;
     color: #260C1A;
     background-color: #AF8D86;
@@ -73,6 +73,7 @@ nav ul{
 	gap: 2.5%;
     padding: 2.5%;
 	max-height: 30%;
+	
 }
 
 nav ul li{
@@ -81,7 +82,6 @@ nav ul li{
   padding: 2.5%;
   border-radius: 30%;
   border-color: #AF8D86;
-  border-style: dashed;
   font-family: 'Playfair Display';
   font-size: 1.15em;
 }
@@ -183,6 +183,7 @@ nav ul li{
     color: #EDBFC6;      
 	min-height: 0;
 }
+
 
 
 
