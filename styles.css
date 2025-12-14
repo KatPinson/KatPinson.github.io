@@ -34,10 +34,6 @@ h1,
   font-weight: 400;
   margin-top: 0;
   font-size: 3.05em;
-  background-color: #AF8D86;
-  border-radius: 95%;
-  overflow: hidden;
-}
 
 h2,
 .text-size-h2 { 
@@ -305,6 +301,7 @@ a:active {
 	min-height: 0;
 	border-radius:20%;
 }
+
 
 
 
