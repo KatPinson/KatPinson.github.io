@@ -25,7 +25,6 @@ h5 {
   font-weight: true;
   line-height: 1.15;
   padding: 10%;
-  margin: 20%;
   background-color: #AF8D86;
   border-radius: 35%;
 }
@@ -302,6 +301,7 @@ a:active {
 	min-height: 0;
 	border-radius:20%;
 }
+
 
 
 
